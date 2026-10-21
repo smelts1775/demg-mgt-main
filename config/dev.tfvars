@@ -13,4 +13,6 @@ tags = {
   deployed_by = "terraform"
   environment = "dev"
   new = "tag"
+  appTeam = "team1"
+  appOwner = "Bill"
 }
